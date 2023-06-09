@@ -26,7 +26,7 @@
   - Method: POST
   - Body: raw + JSON (application/json)</br>
  
-  -- Body Content--
+  -Body Content
   ```
    {
      "ranking":1,

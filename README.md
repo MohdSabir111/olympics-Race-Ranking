@@ -24,9 +24,8 @@
 - Create a message with:
   - URL: http://localhost:3000/Athlete
   - Method: POST
-  - Body: raw + JSON (application/json)</br>
- 
-  -Body Content
+  - Body: raw + JSON (application/json)
+  - Body Content
   ```
    {
      "ranking":1,

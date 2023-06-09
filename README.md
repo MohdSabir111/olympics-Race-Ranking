@@ -27,6 +27,7 @@
   - Body: raw + JSON (application/json)</br>
  
   -- Body Content--
+  ```
    {
      "ranking":1,
      "name":"husain bolt",
@@ -35,6 +36,7 @@
     "   score":2323,
      "event":"100 meter"
      }
+     ```
     
 - Delete a message with:
   - URL: http://localhost:3000/Athlete/1

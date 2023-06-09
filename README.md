@@ -26,16 +26,16 @@
   - Method: POST
   - Body: raw + JSON (application/json)</br>
  
-   Body Content: </br>
+  -- Body Content--
    {
-     ranking:1
-     name:"husain bolt"
-    dob:1998-01-13
-     country:"usa"
-       score:2323
-     event:"100 meter"
+     "ranking":1,
+     "name":"husain bolt",
+    "dob":1998-01-13,
+     "country":"usa",
+    "   score":2323,
+     "event":"100 meter"
      }
-     </br>
+    
 - Delete a message with:
   - URL: http://localhost:3000/Athlete/1
   - Method:
